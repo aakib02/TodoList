@@ -1,2 +1,2 @@
 # TodoList
-in this todo list create your items list
+in this todo write down your daily activities
